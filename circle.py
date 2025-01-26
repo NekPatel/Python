@@ -1,3 +1,3 @@
 radius = 3
 area = (22/7) * radius * radius
-print(area) 
+print("area of circle is ",area) 
