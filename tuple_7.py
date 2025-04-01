@@ -1,0 +1,5 @@
+tpl = (10,20,30,40)
+temp_list = list(tpl)
+temp_list.remove(30)
+modified_tuple = tuple(temp_list)
+print("modife=ied tuple is:", modified_tuple)
