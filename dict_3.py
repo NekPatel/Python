@@ -11,4 +11,4 @@ for i in department:
         salary += [j[1]]#it will give you only salaries
     max_salary = max(salary)
     min_salary = min(salary)
-    print(f"department {i}: min salary is {max_salary}, max salary is {min_salary}")
+    print(f"department {i}: max salary is {max_salary}, min salary is {min_salary}")
